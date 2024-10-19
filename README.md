@@ -38,9 +38,15 @@ can analyze the sentiment of these inputs, providing deeper insights into emotio
 and refining the accuracy of mood predictions.
 Mental Health Dashboard:
 A user-friendly dashboard that visualizes trends, patterns, and the correlation between
-different factors (sleep, diet, exercise, etc.) and mental health, empowering users to make
+different factors (age,gender,depression,anxiety, etc.) and mental health, empowering users to make
 informed decisions about their wellbeing.
 Gamified Progress Tracking:
 Gamification elements like achievements, daily streaks for completing exercises, or
 rewards for consistently using digital therapy could enhance engagement and long-term
 adherence to therapeutic interventions.
+## OUTPUTS:
+### IF UNSTABLE:
+![UNSTABLE](https://github.com/user-attachments/assets/c7603a22-c5fd-496f-869d-f5624ab944e5)
+### IF STABLE:
+![image](https://github.com/user-attachments/assets/fa33728b-c879-4068-93a6-f8f9bac10f9b)
+
